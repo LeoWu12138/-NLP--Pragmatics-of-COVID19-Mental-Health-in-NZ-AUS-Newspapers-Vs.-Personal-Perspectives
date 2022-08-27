@@ -1,7 +1,8 @@
 # Pragmatics of COVID-19 related Mental-Health in New Zealand and Australian Online Newspapers Vs. Personal Accounts
 ## 1. Corpus Content
 Comparisons of corpus linguistics - within the domain of MH - between newspapers and personal accounts could be more interesting, insightful, and impactful. 
-The three separate corpora are created: New Zealand (NZ)/Australia (AU) newspapers, personal stories, and Reddit comments
+The three separate corpora are created: New Zealand (NZ)/Australia (AU) newspapers, personal stories, and Reddit comments.
+
 ![image](https://user-images.githubusercontent.com/91108612/187027129-8f7ecba3-1f0b-41d6-b882-56498a16fe89.png)
 
 ## 2. Corpus Constructing Method

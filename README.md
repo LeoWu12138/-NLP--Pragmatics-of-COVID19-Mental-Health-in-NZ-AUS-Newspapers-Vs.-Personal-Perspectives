@@ -3,8 +3,9 @@
 Comparisons of corpus linguistics - within the domain of MH - between newspapers and personal accounts could be more interesting, insightful, and impactful. 
 The three separate corpora are created: New Zealand (NZ)/Australia (AU) newspapers, personal stories, and Reddit comments
 ![image](https://user-images.githubusercontent.com/91108612/187027129-8f7ecba3-1f0b-41d6-b882-56498a16fe89.png)
+
 ## 2. Corpus Constructing Method
-### 1. Presetting up running environment:
+### Presetting up running environment:
 #### (1). Seeting up import directory:
 Factiva HTML files stored in this directory name: 'Factiva_html' 
 
@@ -23,3 +24,4 @@ Reddit comments text files output in this directory name: 'comments_text_files'
 ! pip install datetime
 ! pip install glob
 
+### Running ipynb file in Jupyter or other server-client applications 
